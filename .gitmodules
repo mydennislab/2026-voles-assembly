@@ -1,0 +1,3 @@
+[submodule "cifiasm"]
+	path = cifiasm
+	url = https://github.com/mydennislab/cifiasm.git
