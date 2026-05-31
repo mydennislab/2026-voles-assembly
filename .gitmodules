@@ -4,3 +4,18 @@
 [submodule "cifi-toolkit"]
 	path = cifi-toolkit
 	url = https://github.com/mydennislab/cifi-toolkit.git
+[submodule "genome-karyoplot"]
+	path = genome-karyoplot
+	url = https://github.com/mydennislab/2026-genome-karyoplot.git
+[submodule "genome-circos"]
+	path = genome-circos
+	url = https://github.com/mydennislab/2026-genome-circos.git
+[submodule "asm-orient"]
+	path = asm-orient
+	url = https://github.com/mydennislab/2026-asm-orient.git
+[submodule "loss-and-selection"]
+	path = loss-and-selection
+	url = https://github.com/mydennislab/2026-loss-and-selection.git
+[submodule "hifi-methyl-analysis"]
+	path = hifi-methyl-analysis
+	url = https://github.com/mydennislab/2026-hifi-methyl-analysis.git
