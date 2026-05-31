@@ -1,3 +1,6 @@
 [submodule "cifiasm"]
 	path = cifiasm
 	url = https://github.com/mydennislab/cifiasm.git
+[submodule "cifi-toolkit"]
+	path = cifi-toolkit
+	url = https://github.com/mydennislab/cifi-toolkit.git
