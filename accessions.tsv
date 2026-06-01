@@ -1,0 +1,34 @@
+accession	title
+PRJEB108798	Vole genomes (ENA study / BioProject)
+ERZ29502723	Prairie vole (Microtus ochrogaster) genome assembly, haplotype 1
+ERZ29502724	Prairie vole (Microtus ochrogaster) genome assembly, haplotype 2
+ERZ29502725	Meadow vole (Microtus pennsylvanicus) genome assembly, haplotype 1
+ERZ29502726	Meadow vole (Microtus pennsylvanicus) genome assembly, haplotype 2
+ERX16712379	Prairie vole PacBio HiFi WGS reads
+ERX16712347	Prairie vole CiFi (HindIII) reads
+ERX16712351	Prairie vole Hi-C reads
+ERX16712349	Prairie vole Illumina WGS reads
+ERX16712352	Meadow vole PacBio HiFi WGS reads
+ERX16712346	Meadow vole CiFi (HindIII) reads
+ERX16712350	Meadow vole Hi-C reads
+ERX16712348	Meadow vole Illumina WGS reads
+ERX16712717	Prairie vole RNA-seq, brain
+ERX16712718	Prairie vole RNA-seq, liver
+ERX16712719	Prairie vole RNA-seq, testes
+ERX16712720	Prairie vole RNA-seq, E11 embryo
+ERX16712721	Meadow vole RNA-seq, brain
+ERX16712722	Meadow vole RNA-seq, liver
+ERX16712723	Meadow vole RNA-seq, testes
+ERX16712724	Meadow vole RNA-seq, E13 embryo
+ERX16737783	Woodland vole (Microtus pinetorum) Illumina WGS reads
+SAMEA122714324	Prairie vole biosample (UCDWGSCIFI-01)
+SAMEA122714325	Meadow vole biosample (UCDWGSCIFI-03)
+SAMEA122715132	Prairie vole brain biosample (2017)
+SAMEA122715133	Prairie vole liver biosample (2017)
+SAMEA122715134	Prairie vole testes biosample (2017)
+SAMEA122715135	Prairie vole E11 embryo biosample (2017)
+SAMEA122715136	Meadow vole brain biosample (2017)
+SAMEA122715137	Meadow vole liver biosample (2017)
+SAMEA122715138	Meadow vole testes biosample (2017)
+SAMEA122715139	Meadow vole E13 embryo biosample (2017)
+SAMEA122737214	Woodland vole (Microtus pinetorum) WGS biosample
